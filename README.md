@@ -5,9 +5,9 @@
 - 📫 Reach me here at GitHub
 
 - I believe...
-- that python and javascript are close siblings
-- start simple, keep it simple
-- play like a kid, code like a professional (automated testing, decent error handling and logging, eliminate code smells early, build small manageable units of code)
+  - that python and javascript are close siblings
+  - start simple, keep it simple
+  - play like a kid, code like a professional (automated testing, decent error handling and logging, eliminate code smells early, build small manageable units of code)
 
 <!---
 pritchardians/pritchardians is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
