@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ian Pritchard. You can find me online here and at https://ianpritchard.com/
 - 👀 I’m interested in learning, growing, collaborating
-- 🌱 I’m currently learning ...javascript, python and associated tech.
+- 🌱 I’m currently learning javascript, python and associated tech.
 - 💞️ I’m looking to collaborate on the brilliant projects you are working on
 - 📫 Reach me here at GitHub
 
